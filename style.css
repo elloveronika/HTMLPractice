@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    outline: 1px solid black;
+
+}
+header{
+    background-color: aqua;
+ 
+}
+span{   
+    background-color: burlywood;
+
+ 
+}
+.smallerimges{
+    background-color: cadetblue;
+    width:100%;
+}
+article{
+    background-color: purple;
+    width: 50%;
+    float: left;
+}
+.split1{
+    background-color: blue;
+    width: 50%;
+}
+.split2{
+    background-color: coral;
+    width: 50%;
+}
